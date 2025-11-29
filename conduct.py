@@ -5,9 +5,9 @@ contact={
     'harry':'0789214151'
 }
 
-#print(contact['abigael'])
-#del contact['mary']
-#print(contact)
+print(contact['abigael'])
+del contact['mary']
+print(contact)
 
 #for key in contact:
     #print(key,contact[key])
